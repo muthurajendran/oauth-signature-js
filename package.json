@@ -1,7 +1,7 @@
 {
   "name": "oauth-signature",
   "description": "OAuth 1.0a signature generator (RFC 5849)",
-  "version": "1.5.0",
+  "version": "1.0.0",
   "author": "Muthu RG (https://github.com/muthurajendran)",
   "homepage": "https://github.com/muthurajendran/oauth-signature-js",
   "repository": {
