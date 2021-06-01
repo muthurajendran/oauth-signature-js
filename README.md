@@ -11,13 +11,13 @@
 #### Install with `npm`:
 
 ```shell
-npm install oauth-signature
+npm install @muthurg/oauth-signature
 ```
 
 #### Install with `bower`:
 
 ```shell
-bower install oauth-signature
+bower install @muthurg/oauth-signature
 ```
 
 Add a `<script>` to your `index.html`:
